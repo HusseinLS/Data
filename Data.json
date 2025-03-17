@@ -1,0 +1,130 @@
+{
+  "categories": ["kits", "medals", "footballs"],
+  "sizes": ["small", "medium", "large", "mini", "standard"],
+  "colors": [
+    "red", "blue", "green", "yellow", "orange", "brown", "gold", "silver",
+    "black", "white", "pink", "purple", "gray"
+  ],
+  "products": {
+    "Barcelona": {
+      "image": "https://stock.adobe.com/search?k=football+kit",
+      "Price": 12,
+      "Categories": ["kits"],
+      "onSale": 0,
+      "options": {
+        "colors": ["red", "blue"],
+        "sizes": ["small", "medium"]
+      }
+    },
+    "Paris": {
+      "image": "https://www.freepik.com/free-photos-vectors/football-kit",
+      "Price": 15,
+      "Categories": ["kits"],
+      "onSale": 1,
+      "options": {
+        "colors": ["green", "yellow"],
+        "sizes": ["large", "medium"]
+      }
+    },
+    "Sydney": {
+      "image": "https://stock.adobe.com/search?k=football+kit",
+      "Price": 22,
+      "Categories": ["kits"],
+      "onSale": 0,
+      "options": {
+        "colors": ["orange", "blue"],
+        "sizes": ["small", "medium"]
+      }
+    },
+    "Rome": {
+      "image": "https://stock.adobe.com/search?k=football+kit",
+      "Price": 14,
+      "Categories": ["kits"],
+      "onSale": 0,
+      "options": {
+        "colors": ["red", "brown"],
+        "sizes": ["small", "medium"]
+      }
+    },
+    "Dubai": {
+      "image": "https://www.freepik.com/free-photos-vectors/football-kit",
+      "Price": 25,
+      "Categories": ["kits"],
+      "onSale": 0,
+      "options": {
+        "colors": ["gold", "silver"],
+        "sizes": ["small", "large"]
+      }
+    },
+    "New York": {
+      "image": "https://www.shutterstock.com/search/football-medal",
+      "Price": 20,
+      "Categories": ["medals"],
+      "onSale": 0,
+      "options": {
+        "colors": ["black", "white"],
+        "sizes": ["small", "large"]
+      }
+    },
+    "Tokyo": {
+      "image": "https://www.freepik.com/free-photos-vectors/football-medal",
+      "Price": 18,
+      "Categories": ["medals"],
+      "onSale": 1,
+      "options": {
+        "colors": ["pink", "purple"],
+        "sizes": ["medium", "large"]
+      }
+    },
+    "Berlin": {
+      "image": "https://www.shutterstock.com/search/football-medal",
+      "Price": 17,
+      "Categories": ["medals"],
+      "onSale": 1,
+      "options": {
+        "colors": ["gray", "red"],
+        "sizes": ["large", "medium"]
+      }
+    },
+    "London": {
+      "image": "https://www.freepik.com/free-photos-vectors/football-medal",
+      "Price": 19,
+      "Categories": ["medals"],
+      "onSale": 1,
+      "options": {
+        "colors": ["blue", "green"],
+        "sizes": ["medium", "large"]
+      }
+    },
+    "Toronto": {
+      "image": "https://www.shutterstock.com/search/football-medal",
+      "Price": 16,
+      "Categories": ["medals"],
+      "onSale": 1,
+      "options": {
+        "colors": ["black", "yellow"],
+        "sizes": ["medium", "large"]
+      }
+    },
+    "Nike Football": {
+      "image": "https://www.nike.com/football",
+      "Price": 30,
+      "Categories": ["footballs"],
+      "onSale": 1,
+      "options": {
+        "colors": ["white", "black", "blue"],
+        "sizes": ["standard", "mini"]
+      }
+    },
+    "Adidas Football": {
+      "image": "https://www.adidas.com/football",
+      "Price": 35,
+      "Categories": ["footballs"],
+      "onSale": 0,
+      "options": {
+        "colors": ["yellow", "red", "green"],
+        "sizes": ["standard", "mini"]
+      }
+    }
+  }
+}
